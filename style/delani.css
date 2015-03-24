@@ -1,7 +1,7 @@
 #container {
-	background: #F9B18A; 
+	background: #FFFFFF; 
 	width: 1210px;
-	height: 3650px;	
+	height: auto;	
 	margin-right: auto;
 	margin-left: auto;
 	vertical-align: center;
@@ -9,7 +9,7 @@
 #title {
 	background-image: url("/home/ngondo/Desktop/assignment/assets/backgrounds/h_img.jpg");
 	background-size: cover;
-	height: 700px;
+	height: 800px;
 	width: 1190px;
 	margin-top: auto;
 	margin-right: auto;
@@ -17,12 +17,18 @@
 }
 
 #aboutus{
-	height: 600px;
+	height: 400px;
 	width: 1190px;
 	margin-right: auto;
 	margin-left: auto;
-	background: #CB28E7;
+	background: #FFFFFF;
+	text-align: center;
+	padding-top: 5%;
 
+}
+p{
+	text-align: center;
+	color: solid black;
 }
 #services{
 	height: 600px;
