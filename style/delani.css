@@ -1,0 +1,66 @@
+#container {
+	background: #F9B18A; 
+	width: 1210px;
+	height: 3650px;	
+	margin-right: auto;
+	margin-left: auto;
+	vertical-align: center;
+}
+#title {
+	background-image: url("/home/ngondo/Desktop/assignment/assets/backgrounds/h_img.jpg");
+	background-size: cover;
+	height: 700px;
+	width: 1190px;
+	margin-top: auto;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#aboutus{
+	height: 600px;
+	width: 1190px;
+	margin-right: auto;
+	margin-left: auto;
+	background: #CB28E7;
+
+}
+#services{
+	height: 600px;
+	width: 1190px;
+	margin-right: auto;
+	margin-left: auto;
+	background: #3528E7;
+
+}
+#wedo{
+	height: 600px;
+	width: 1190px;
+	margin-right: auto;
+	margin-left: auto;
+	background: #28D7E7;
+
+}
+#portfolio{
+	height: 600px;
+	width: 1190px;
+	margin-right: auto;
+	margin-left: auto;
+	background: #28E748;
+
+}
+#contactus{
+	height: 600px;
+	width: 1190px;
+	margin-right: auto;
+	margin-left: auto;
+	background: #C4E728;
+
+}
+footer{
+	margin-right: auto;
+	margin-left: auto;
+	width: 1190px;
+	height:20px;
+	background: solid black;
+	margin-bottom: auto;
+}
