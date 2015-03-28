@@ -7,7 +7,7 @@
 	vertical-align: center;
 }
 #title {
-	background-image: url("/home/ngondo/Desktop/assignment/assets/backgrounds/h_img.jpg");
+	background-image: url("assets/backgrounds/h_img.jpg");
 	background-size: cover;
 	height: 800px;
 	width: 1190px;
